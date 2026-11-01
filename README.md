@@ -4,7 +4,7 @@ Uma flor roxa feita de **milhares de pontinhos** que brota da terra sob uma nuve
 
 Um arquivo só, sem instalar nada e **sem precisar de internet**. É só abrir no navegador.
 
-> 🔗 **Demo ao vivo:** `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`
+> 🔗 **Demo ao vivo:** `https://github.com/G0rda0/Rosa-roxa-sobre-a-chuva/deployments/github-pages`
 ---
 
 ## ✨ A história que a animação conta
